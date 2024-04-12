@@ -1,0 +1,35 @@
+.navbar {
+    background-color: beige;
+    padding: auto;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    padding: 5px;
+    z-index: 1;
+
+}
+#hero-image{
+    background-image: url(https://th.bing.com/th/id/OIP.B7Vnelq94H1IV3SWAYJnCAHaE2?rs=1&pid=ImgDetMain);
+    height: 400px;
+    background-size: cover;
+}
+
+.main-content{
+    padding-top: 2%;
+    margin-left: 10x;
+    margin-right: 10;
+}
+#africa-article{
+    letter-spacing: 1px;
+    word-spacing: 4px;
+}
+.article{
+    font-size: 1.0em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
+.navbar-fixed{
+    background-color: aqua;
+    transition: background-color 0.5s;
+}
+/*https://wallpapercave.com/wp/wp9409731.jpg
